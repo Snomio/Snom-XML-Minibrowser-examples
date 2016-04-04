@@ -38,7 +38,7 @@ This repo provides also a ready to use Dockerfile in order to run the script in 
 ![Rome](img/rome.bmp)
 
 **Rome today weather:**
-![Rome todat](today.bmp)
+![Rome todat](img/today.bmp)
 
 **Dubai forcast main view:**
 ![Dubai](img/dubai.bmp)
