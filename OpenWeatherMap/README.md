@@ -42,6 +42,6 @@ This repo provides also a ready to use Dockerfile in order to run the script in 
 
 ![Rome todat](img/today.bmp)
 
-**Dubai forcast main view:**
+**Dubai forecast main view:**
 
 ![Dubai](img/dubai.bmp)
